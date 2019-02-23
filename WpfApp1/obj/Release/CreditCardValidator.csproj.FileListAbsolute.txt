@@ -1,0 +1,30 @@
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\AboutInfo.g.cs
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\AboutInfo.baml
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator.csproj.GenerateResource.cache
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator.csproj.CoreCompileInputs.cache
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator_MarkupCompile.cache
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator_MarkupCompile.lref
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\bin\Release\CreditCardValidator.exe.config
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\bin\Release\CreditCardValidator.exe
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator.g.resources
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator.Properties.Resources.resources
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator.exe
+C:\Users\Alex Zhang\Desktop\WpfApp1\WpfApp1\obj\Release\CreditCardValidator.csprojAssemblyReference.cache
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\bin\Release\CreditCardValidator.exe.config
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\bin\Release\CreditCardValidator.exe
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator.csprojAssemblyReference.cache
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\AboutInfo.baml
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\AboutInfo.g.cs
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\App.g.cs
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator_MarkupCompile.cache
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator_MarkupCompile.lref
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator.g.resources
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator.Properties.Resources.resources
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator.csproj.GenerateResource.cache
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator.csproj.CoreCompileInputs.cache
+C:\Users\Alex Zhang\OneDrive - UNSW\UNSW\random coding stuff\c#\CreditCardValidator\WpfApp1\obj\Release\CreditCardValidator.exe
